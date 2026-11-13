@@ -153,16 +153,7 @@ export default function App() {
       {/* Top Bar Contract: 1 fila, 3 zonas */}
       <header className="no-print bg-white border-b border-slate-200 sticky top-0 z-30">
         <div className="max-w-[1440px] mx-auto px-4 sm:px-6 h-14 flex items-center justify-between gap-8">
-          <a
-            href="#top"
-            onClick={(e) => {
-              e.preventDefault();
-              setVista('calculadora');
-            }}
-            className="font-display text-base font-bold tracking-tight text-slate-900 whitespace-nowrap shrink-0"
-          >
-            PGC Estructural
-          </a>
+          
 
           <nav
             aria-label="Navegación principal"
