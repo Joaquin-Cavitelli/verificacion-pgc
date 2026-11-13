@@ -1,0 +1,6 @@
+{
+  "name": "Calculo Estructural Vigas PGC Barbieri",
+  "description": "Sistema de cálculo y verificación estructural de vigas con perfiles conformados en frío PGC Barbieri (flexión, deformación, corte y propiedades geométricas efectivas).",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
